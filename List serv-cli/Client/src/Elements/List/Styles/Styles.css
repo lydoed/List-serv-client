@@ -1,0 +1,53 @@
+.Butto {
+    display: block; /* Задаем тип элемента как блочный */
+    margin: auto; /* Устанавливаем автоматические отступы */
+    margin-top: 20px;
+    background-color: #4CAF50; /* Задаем цвет фона */
+    border: none; /* Убираем рамку */
+    color: white; /* Задаем цвет текста */
+    padding: 15px 32px; /* Задаем отступы */
+    text-align: center; /* Центрируем текст */
+    text-decoration: none; /* Убираем подчеркивание */
+    font-size: 16px; /* Задаем размер шрифта */
+    cursor: pointer; /* Задаем курсор при наведении */
+    border-radius: 8px; /* Задаем скругление углов */
+}
+
+.list-Butto{
+    display: block; /* Задаем тип элемента как блочный */
+    margin: auto;
+    margin-top: 5px;
+    background-color: #4CAF50; /* Задаем цвет фона */
+    border: none; /* Убираем рамку */
+    color: white; /* Задаем цвет текста */
+    padding: 5px 20px; /* Задаем отступы */
+    text-align: center; /* Центрируем текст */
+    text-decoration: none; /* Убираем подчеркивание */
+    font-size: 16px; /* Задаем размер шрифта */
+    cursor: pointer; /* Задаем курсор при наведении */
+    border-radius: 4px; /* Задаем скругление углов */
+}
+
+
+
+
+
+.list {
+    margin: auto;
+    margin-top: 50px;
+    height: 60px;
+    width: 400px;
+    background-color: rgb(238, 195, 132);
+    border: 3px solid black;
+    border-radius: 20px;
+    list-style-type: none;
+    text-align: center;
+}
+
+
+.acateg{
+    margin-left: 20px;
+    font-size: 2rem;
+    text-decoration: none;
+}
+

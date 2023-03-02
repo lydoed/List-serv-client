@@ -1,0 +1,37 @@
+.auth-panel {
+    margin: auto;
+    margin-top: 50px;
+    background-color: #e8d687; /* Цвет фона */
+    border-radius: 5px; /* Скругление углов */
+    padding: 20px; /* Внутренние отступы */
+    width: 400px; /* Ширина панели */
+}
+  
+  /* Стиль для полей ввода */
+.auth-panel input {
+    margin: auto;
+    padding: 10px; /* Внутренние отступы */
+    border: none; /* Убираем рамку */
+    border-radius: 5px; /* Скругление углов */
+    margin-bottom: 10px; /* Внешние отступы между полями */
+    width: 95%; /* Ширина поля ввода */
+}
+  
+  /* Стиль для кнопки */
+.auth-panel button {
+    background-color: #71dce6; /* Цвет фона */
+    border: none; /* Убираем рамку */
+    color: white; /* Цвет текста */
+    padding: 10px; /* Внутренние отступы */
+    text-align: center; /* Выравнивание по центру */
+    text-decoration: none; /* Убираем подчеркивание */
+    display: block; /* Задаем тип элемента как блочный */
+    width: 90%; /* Ширина кнопки */
+    border-radius: 5px; /* Скругление углов */
+    cursor: pointer; /* Задаем курсор при наведении */
+}
+
+.auth-panel p{
+    margin: auto;
+    color: red;
+}

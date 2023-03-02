@@ -1,0 +1,35 @@
+.navbar{
+    min-width: 400px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+.navv {
+    background-color: rgb(245, 206, 159);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    padding: 10px;
+    border: #dddddd 5px solid;
+    border-radius: 40px;
+}
+  
+.left-panel {
+    float: left;
+}
+  
+.nav-buttom {
+    margin: 5px;
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+    border: 3px solid black;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.right-panel{
+    float: right;
+}
